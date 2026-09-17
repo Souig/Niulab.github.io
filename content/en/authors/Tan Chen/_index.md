@@ -5,10 +5,10 @@ first_name: Tan
 last_name: Chen
 weight: 1
 user_groups:
-  - Ph.D. Students
+  - Undergraduate Students
 superuser: false
 highlight_name: true
-role: Ph.D. 
+role: Undergraduate
 organizations:
   - name: Dept. of Electronic Engineering, Tsinghua University
 interests:

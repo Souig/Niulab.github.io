@@ -35,7 +35,7 @@ sections:
         id: lab-intro
         content:
           title: "NIULAB"
-          subtitle: "Network Intelligence & Ubiquitous Linkage, Tsinghua University"
+          subtitle: "Network Intelligence for Ubiquitous Linkage and Broadband, Tsinghua University"
           description: >
             NIULAB focuses on network intelligence, ubiquitous connectivity,
             and broadband wireless systems, advancing fundamental theory

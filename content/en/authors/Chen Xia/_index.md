@@ -5,10 +5,10 @@ first_name: Chen
 last_name: Xia
 weight: 1
 user_groups:
-  - Master Students
+  - Undergraduate Students
 superuser: false
 highlight_name: true
-role: M.S. 
+role: Undergraduate Students
 organizations:
   - name: Dept. of Electronic Engineering, Tsinghua University
 interests:

@@ -1,5 +1,5 @@
-# [ACE-Lab Website](https://Souig.github.io/)
+# [NiuLab Website](https://Souig.github.io/)
 
-![Screenshot](.github/preview.webp)
+![Screenshot](assets/media/team1.jpg)
 
-Advanced Communication and Computing Electronics Lab, Shanghai University
+Network Intelligence for Ubiquitous Linkage and Broadband, Tsinghua University

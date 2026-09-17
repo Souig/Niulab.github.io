@@ -5,10 +5,10 @@ first_name: Yaodan
 last_name: Xu
 weight: 2
 user_groups:
-  - Ph.D. Students
+  - Undergraduate Students
 superuser: false
 highlight_name: true
-role: Ph.D. Student
+role: Undergraduate Students
 organizations:
   - name: Dept. of Electronic Engineering, Tsinghua University
 interests:
