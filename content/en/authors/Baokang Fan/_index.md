@@ -1,24 +1,23 @@
 ---
-title: Yaodan Xu
+title: Baokang Fan
 type: landing
-first_name: Yaodan
-last_name: Xu
-weight: 2
+first_name: Baokang
+last_name: Fan
+weight: 5
 user_groups:
   - Ph.D. Students
 superuser: false
 highlight_name: true
-role: Ph.D. Student
+role: Ph.D. 
 organizations:
   - name: Dept. of Electronic Engineering, Tsinghua University
 interests:
-  - Edge Intelligence
-  - Machine Learning Systems
-  - Stochastic Network Optimization
+  - Autonomous Networked Systems
+  - Multi-Agent Collaboration
 sections:
   - block: resume-biography-3
     content:
-      username: Yaodan Xu
+      username: Baokang Fan
       text: ''
       headings:
         about: Biography
@@ -33,10 +32,10 @@ sections:
     content:
       title: Publications
       filters:
-        author: "Yaodan Xu"
+        author: "Baokang Fan"
         show_toolbar: false
     design:
       view: pub-item
       sort_order: "type_year"
 ---
-She is a Ph.D. student in the Department of Electronic Engineering at Tsinghua University. She received her B.Eng. degree from Tsinghua University.
+He received his bachelor’s degree from Tsinghua University. In Fall 2022, he joined NiuLab as a Ph.D. student at Tsinghua University.

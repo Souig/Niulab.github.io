@@ -1,24 +1,27 @@
 ---
-title: Yaodan Xu
+title: Yilin Zhao
 type: landing
-first_name: Yaodan
-last_name: Xu
-weight: 2
+first_name: Yilin
+last_name: Zhao
+weight: 3
 user_groups:
-  - Ph.D. Students
+  - Master Students
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:zhao-yl26@mails.tsinghua.edu.cn'
 superuser: false
 highlight_name: true
-role: Ph.D. Student
+role: M.S.
 organizations:
   - name: Dept. of Electronic Engineering, Tsinghua University
 interests:
-  - Edge Intelligence
-  - Machine Learning Systems
-  - Stochastic Network Optimization
+  - Active Perception and Autonomous Knowledge Acquisition
+  - Adaptive Reasoning and Real-Time Decision-Making
 sections:
   - block: resume-biography-3
     content:
-      username: Yaodan Xu
+      username: Yilin Zhao
       text: ''
       headings:
         about: Biography
@@ -33,10 +36,10 @@ sections:
     content:
       title: Publications
       filters:
-        author: "Yaodan Xu"
+        author: "Yilin Zhao"
         show_toolbar: false
     design:
       view: pub-item
       sort_order: "type_year"
 ---
-She is a Ph.D. student in the Department of Electronic Engineering at Tsinghua University. She received her B.Eng. degree from Tsinghua University.
+He received his bachelor’s degree from Southeast University. In Fall 2026, he joined NiuLab as a M.S. student.

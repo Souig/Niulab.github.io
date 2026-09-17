@@ -6,6 +6,10 @@ last_name: Xu
 weight: 2
 user_groups:
   - Master Students
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:xbr25@mails.tsinghua.edu.cn'
 superuser: false
 highlight_name: true
 role: M.S.

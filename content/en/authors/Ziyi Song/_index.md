@@ -3,7 +3,7 @@ title: Ziyi Song
 type: landing
 first_name: Ziyi
 last_name: Song
-weight: 4
+weight: 8
 user_groups:
   - Ph.D. Students
 social:

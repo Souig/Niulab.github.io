@@ -3,7 +3,7 @@ title: Xiankun Zeng
 type: landing
 first_name: Xiankun
 last_name: Zeng
-weight: 6
+weight: 11
 user_groups:
   - Ph.D. Students
 social:

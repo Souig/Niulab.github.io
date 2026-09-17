@@ -3,7 +3,7 @@ title: Bowen Xie
 type: landing
 first_name: Bowen
 last_name: Xie
-weight: 9
+weight: 4
 user_groups:
   - Ph.D. Students
 superuser: false
