@@ -1,0 +1,9 @@
+# Languages
+#   Documentation: https://docs.hugoblox.com/reference/language/
+
+# Default language
+en:
+  locale: en-us
+  label: English
+  contentDir: content/en
+  weight: 1

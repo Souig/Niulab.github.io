@@ -1,0 +1,129 @@
+# ======================================================
+# Journals
+# ======================================================
+
+# IEEE 通信 / 信号 / 网络
+"IEEE Transactions on Wireless Communications": "IEEE TWC"
+"IEEE Transactions on Vehicular Technology": "IEEE TVT"
+"IEEE Transactions on Signal Processing": "IEEE TSP"
+"IEEE Transactions on Communications": "IEEE TCOM"
+"IEEE Journal on Selected Areas in Communications": "IEEE JSAC"
+"IEEE Journal on Selected Areas in Information Theory": "IEEE JSAIT"
+"IEEE Internet of Things Journal": "IEEE IoT-J"
+"IEEE Transactions on Cognitive Communications and Networking": "IEEE TCCN"
+"IEEE Transactions on Green Communications and Networking": "IEEE TGCN"
+"IEEE Transactions on Mobile Computing": "IEEE TMC"
+"IEEE Transactions on Information Theory": "IEEE TIT"
+"IEEE Transactions on Cloud Computing": "IEEE TCC"
+"IEEE Transactions on Parallel and Distributed Systems": "IEEE TPDS"
+"IEEE Transactions on Network and Service Management": "IEEE TNSM"
+"IEEE Transactions on Intelligent Transportation Systems": "IEEE T-ITS"
+"IEEE/ACM Transactions on Networking": "IEEE/ACM ToN"
+
+# IEEE 电路 / 芯片 / 系统
+"IEEE Transactions on Very Large Scale Integration (VLSI) Systems": "IEEE TVLSI"
+"IEEE Transactions on Circuits and Systems I: Regular Papers": "IEEE TCAS-I"
+"IEEE Transactions on Circuits and Systems II: Express Briefs": "IEEE TCAS-II"
+"IEEE Journal on Emerging and Selected Topics in Circuits and Systems": "IEEE JETCAS"
+"IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems": "IEEE TCAD"
+"IEEE Embedded Systems Letters": "IEEE ESL"
+"IEEE Journal of Solid-State Circuits": "IEEE JSSC"
+
+# IEEE 快报 / 综合
+"IEEE Sensors Journal": "IEEE Sensors J."
+"IEEE Communications Letters": "IEEE Commun. Lett."
+"IEEE Wireless Communications Letters": "IEEE WCL"
+"IEEE Antennas and Wireless Propagation Letters": "IEEE AWPL"
+"IEEE Access": "IEEE Access"
+"IEEE Communications Magazine": "IEEE Commun. Mag."
+"IEEE Wireless Communications": "IEEE Wireless Commun."
+"IEEE Network": "IEEE Network"
+
+# 非 IEEE 期刊
+"China Communications": "China Comm."
+"EURASIP Journal on Wireless Communications and Networking": "EURASIP JWCN"
+"IEICE Transactions on Communications": "IEICE Trans. Commun."
+"IET Communications": "IET Commun."
+"Journal of Communications and Networks": "JCN"
+"Journal of Communications and Information Networks": "JCIN"
+"Journal of Communications": "J. Commun."
+"Journal of Intelligent and Converged Networks": "J. Intell. Converged Netw."
+"Journal of Systems Architecture": "JSA"
+"Microprocessors and Microsystems": "MICPRO"
+"Wireless Networks": "Wireless Netw."
+
+"Neurocomputing": "Neurocomputing"
+"Pattern Recognition": "Pattern Recognit."
+"Entropy": "Entropy"
+"Multimedia Tools and Applications": "MTAP"
+"Computer Communications": "Comput. Commun."
+"Digital Signal Processing": "Digit. Signal Process."
+"Materials Chemistry and Physics": "Mater. Chem. Phys."
+"Nano Research": "Nano Res."
+
+"Science China: Information Sciences": "Sci. China Inf. Sci."
+"Journal of Electronics & Information Technology": "J. Electron. Inf. Technol."
+"Journal on Internet of Things": "J. Internet Things"
+"Scientific Reports": "Sci. Rep."
+"Science Bulletin": "Sci. Bull."
+"Frontiers of Information Technology & Electronic Engineering": "FITEE"
+"ZTE Communications": "ZTE Commun."
+"ZTE Technology Journal": "ZTE Tech."
+
+# ======================================================
+# Conferences
+# ======================================================
+
+# 通信 / 网络
+"IEEE Global Communications Conference": "IEEE GLOBECOM"
+"IEEE GLOBECOM Workshops": "IEEE GLOBECOM Workshops"
+"IEEE International Conference on Communications": "IEEE ICC"
+"IEEE INFOCOM": "IEEE INFOCOM"
+"IEEE Wireless Communications and Networking Conference": "IEEE WCNC"
+"IEEE Vehicular Technology Conference": "IEEE VTC"
+"IEEE/CIC International Conference on Communications in China": "IEEE/CIC ICCC"
+
+"IEEE International Symposium on Personal, Indoor and Mobile Radio Communications": "IEEE PIMRC"
+"IEEE International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks": "IEEE WiOpt"
+"IEEE International Conference on e-Health Networking, Applications and Services": "IEEE Healthcom"
+"IEEE International Conference on Information and Communication Technology Convergence": "IEEE ICTC"
+"IEEE International Conference on Communication Systems": "IEEE ICCS"
+"International Conference on Wireless Communications and Signal Processing": "IEEE WCSP"
+"Asia-Pacific Conference on Communications": "APCC"
+"International Teletraffic Congress": "ITC"
+"Asilomar Conference on Signals, Systems, and Computers": "Asilomar"
+"IEEE 6G Summit": "IEEE 6G Summit"
+
+# 电路 / 系统 / 芯片
+"IEEE International Symposium on Circuits and Systems": "IEEE ISCAS"
+"IEEE International Solid-State Circuits Conference": "IEEE ISSCC"
+"IEEE Custom Integrated Circuits Conference": "IEEE CICC"
+"IEEE International Conference on ASIC": "IEEE ASICON"
+"IEEE International Conference on Integrated Circuits and Microsystems": "IEEE ICICM"
+"IEEE International Conference on Artificial Intelligence Circuits and Systems": "IEEE AICAS"
+
+"Asia and South Pacific Design Automation Conference": "ASP-DAC"
+"International Symposium on Quality Electronic Design": "ISQED"
+
+# 信号处理 / 理论
+"IEEE Signal Processing Advances in Wireless Communications": "IEEE SPAWC"
+"IEEE Global Conference on Signal and Information Processing": "IEEE GlobalSIP"
+"IEEE Workshop on Signal Processing Systems": "IEEE SiPS"
+"IEEE International Symposium on Information Theory": "IEEE ISIT"
+"International Conference on Digital Signal Processing": "DSP"
+
+# AI / 视觉
+"Asian Conference on Computer Vision": "ACCV"
+"International Conference on Pattern Recognition": "ICPR"
+"AAAI Conference on Artificial Intelligence": "AAAI"
+
+# 其他
+"ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems": "ACM LCTES"
+"International Conference on Embedded Software and Systems": "ICESS"
+"International Conference on High Performance Computing and Communication": "HPCC"
+
+# ======================================================
+# Preprint
+# ======================================================
+"arXiv": "arXiv"
+"CoRR": "arXiv"

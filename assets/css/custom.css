@@ -1,0 +1,156 @@
+
+/* =========================================
+   导航栏：毛玻璃风格（匹配 v1.html）
+   ========================================= */
+
+/* 顶部导航栏毛玻璃背景 */
+.page-header.sticky {
+  backdrop-filter: blur(18px) !important;
+  -webkit-backdrop-filter: blur(18px) !important;
+  background: rgba(248, 250, 255, 0.78) !important;
+  border-bottom: 1px solid rgba(219, 227, 239, 0.9) !important;
+  transition: background 0.3s ease, border-color 0.3s ease;
+}
+
+.dark .page-header.sticky {
+  background: rgba(15, 23, 42, 0.82) !important;
+  border-bottom: 1px solid rgba(51, 65, 85, 0.6) !important;
+}
+
+/* 导航栏整体布局 */
+#site-header .navbar {
+  min-height: 44px !important;
+  max-width: 1200px !important;
+  margin: 0 auto !important;
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+}
+
+/* 导航链接风格 */
+.navbar-nav .nav-link {
+  display: flex !important;
+  align-items: center !important;
+  white-space: nowrap !important;
+  font-size: 14px !important;
+  font-weight: 600 !important;
+  letter-spacing: 0.01em !important;
+  color: #5e6b85 !important;
+  padding: 0.3rem 0.6rem !important;
+  border-radius: 8px !important;
+  transition: color 0.2s ease, background 0.2s ease !important;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link.active {
+  color: #7C3AED !important;
+  background: rgba(124, 58, 237, 0.06) !important;
+}
+
+.dark .navbar-nav .nav-link {
+  color: #94a3b8 !important;
+}
+
+.dark .navbar-nav .nav-link:hover,
+.dark .navbar-nav .nav-link.active {
+  color: #A78BFA !important;
+  background: rgba(167, 139, 250, 0.1) !important;
+}
+
+/* 有下拉菜单的导航项箭头颜色 */
+.nav-item.group .nav-link svg {
+  color: inherit !important;
+}
+
+/* 下拉菜单 - 毛玻璃风格 */
+.navbar-nav .group ul {
+  padding-top: 12px !important;
+}
+
+.navbar-nav .group ul div {
+  background: rgba(255, 255, 255, 0.78) !important;
+  backdrop-filter: blur(16px) !important;
+  -webkit-backdrop-filter: blur(16px) !important;
+  border: 1px solid rgba(219, 227, 239, 0.8) !important;
+  border-radius: 14px !important;
+  box-shadow: 0 18px 45px rgba(18, 33, 61, 0.10) !important;
+  overflow: hidden !important;
+}
+
+.dark .navbar-nav .group ul div {
+  background: rgba(30, 41, 59, 0.88) !important;
+  border: 1px solid rgba(51, 65, 85, 0.6) !important;
+}
+
+/* 下拉菜单项 hover */
+.navbar-nav .group ul li a {
+  font-size: 13px !important;
+  padding: 10px 20px !important;
+  color: #3b4252 !important;
+  transition: all 0.15s ease !important;
+}
+
+.navbar-nav .group ul li a:hover {
+  background: linear-gradient(135deg, rgba(79, 70, 229, 0.08), rgba(124, 58, 237, 0.08)) !important;
+  color: #4f46e5 !important;
+}
+
+.dark .navbar-nav .group ul li a {
+  color: #cbd5e1 !important;
+}
+
+.dark .navbar-nav .group ul li a:hover {
+  background: rgba(129, 140, 248, 0.12) !important;
+  color: #a5b4fc !important;
+}
+
+/* =========================================
+   首页 Slider 与导航栏无缝衔接
+   ========================================= */
+
+body.page-type-home .page-wrapper,
+body.page-type-home main {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+
+#section-slider-tw {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* =========================================
+   Logo 放大优化
+   ========================================= */
+
+.navbar-brand svg {
+  height: 2.2rem !important;
+  width: auto !important;
+  max-height: none !important;
+  vertical-align: middle;
+}
+
+/* Fix logo text visibility in dark mode */
+.dark .navbar-brand svg text {
+  fill: white !important;
+}
+
+.navbar-brand img {
+  height: 2.2rem !important;
+  width: auto !important;
+  max-height: none !important;
+}
+
+.navbar-nav .nav-link {
+  height: 100% !important;
+}
+
+@media (max-width: 768px) {
+  .navbar-brand svg,
+  .navbar-brand img {
+    height: 1.8rem !important;
+  }
+
+  #site-header .navbar {
+    min-height: 48px !important;
+  }
+}

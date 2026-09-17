@@ -1,0 +1,68 @@
+# SITE SETUP
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+# Appearance
+appearance:
+  mode: system
+  pack: "default"
+  color: indigo
+
+# SEO
+marketing:
+  seo:
+    site_type: Organization
+    local_business_type: ""
+    org_name: "NIULAB, Tsinghua University"
+    description: "Network Intelligence & Ubiquitous Linkage Lab, Dept. of Electronic Engineering, Tsinghua University"
+    twitter: ""
+  analytics:
+    google_analytics: ""
+    baidu_tongji: ""
+    plausible: ""
+    fathom: ""
+    pirsch: ""
+  verification:
+    google: ""
+    baidu: ""
+
+# Site header
+header:
+  theme_picker: true
+  navbar:
+    enable: true
+    block: "navbar"
+    align: "r"
+    fixed_to_top: true
+    show_search: false
+    show_theme_chooser: true
+    show_translations: false
+    logo:
+      text: ""
+      filename: "niulab.svg"
+
+# Site footer
+footer:
+  copyright:
+    notice: "© {year} NIULAB. Dept. of Electronic Engineering, Tsinghua University"
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
+
+# Localization
+locale:
+  date_format: "Jan 2, 2006"
+  time_format: "3:04 PM"
+
+# Site features
+features:
+  math:
+    enable: true
+  privacy_pack:
+    enable: false
+  avatar:
+    gravatar: false
+    shape: circle

@@ -1,0 +1,42 @@
+# Navigation Links
+
+main:
+  - name: Home
+    url: /
+    weight: 10
+  - name: Research
+    url: /#researches
+    identifier: research
+    weight: 11
+  - name: Edge Intelligence
+    url: /researches/edge-intelligence/
+    parent: research
+    weight: 1
+  - name: Vehicular & Autonomous Systems
+    url: /researches/vehicular-systems/
+    parent: research
+    weight: 2
+  - name: Low-Altitude Intelligent Networks
+    url: /researches/low-altitude-networks/
+    parent: research
+    weight: 3
+  - name: AI-Native Networking
+    url: /researches/ai-native-networking/
+    parent: research
+    weight: 4
+  - name: Green Wireless Systems
+    url: /researches/green-wireless/
+    parent: research
+    weight: 5
+  - name: People
+    url: /people/
+    weight: 14
+  - name: Publications
+    url: /publication/
+    weight: 15
+  - name: Events
+    url: /events
+    weight: 16
+  - name: Join Us
+    url: /opportunities/
+    weight: 17
