@@ -6,6 +6,10 @@ last_name: Yu
 weight: 12
 user_groups:
   - Ph.D. Students
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:yuhang22@mails.tsinghua.edu.cn'
 superuser: false
 highlight_name: true
 role: Ph.D. 
