@@ -116,6 +116,11 @@
 "Asian Conference on Computer Vision": "ACCV"
 "International Conference on Pattern Recognition": "ICPR"
 "AAAI Conference on Artificial Intelligence": "AAAI"
+"International Conference on Computer Vision": "ICCV"
+"Conference on Computer Vision and Pattern Recognition": "CVPR"
+"European Conference on Computer Vision": "ECCV"
+"International Conference on Learning Representations": "ICLR"
+"International Conference on Robotics and Automation": "ICRA"
 
 # 其他
 "ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems": "ACM LCTES"
