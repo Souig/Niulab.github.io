@@ -13,13 +13,15 @@ sections:
 
         Key topics include:
 
-        - Mobile edge computing and caching
-        - Federated learning and continual learning
-        - Speculative decoding for LLM inference
-        - Green edge intelligence and energy-efficient AI
-        - Stochastic network optimization
+        <ul>
+        <li>Mobile edge computing and caching</li>
+        <li>Federated learning and continual learning</li>
+        <li>Speculative decoding for LLM inference</li>
+        <li>Green edge intelligence and energy-efficient AI</li>
+        <li>Stochastic network optimization</li>
+        </ul>
 
-        ![Edge Intelligence](1-1.png)
+        ![Edge Intelligence](media/1-1.png)
         ![Edge Intelligence](1-2.png)
         ![Edge Intelligence](1-3.png)
         ![Edge Intelligence](1-4.png)
