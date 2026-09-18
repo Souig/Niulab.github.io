@@ -64,12 +64,12 @@ sections:
 
         - title: "AI-Native Networking"
           text: "Architecting next-generation networks with native AI capabilities for autonomous network management and intelligent resource optimization."
-          image: ""
+          image: "team1.jpg"
           link: "/researches/ai-native-networking/"
 
         - title: "Green Wireless Systems"
           text: "Developing energy-efficient wireless communication technologies and green edge intelligence for sustainable network evolution."
-          image: ""
+          image: "team1.jpg"
           link: "/researches/green-wireless/"
 
     design:
