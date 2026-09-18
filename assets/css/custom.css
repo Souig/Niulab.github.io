@@ -156,7 +156,6 @@ body.page-type-home main {
 }
 
 
-.wb-pages .prose,
-.wb-pages .max-w-prose {
+.page-body .max-w-prose {
   max-width: 1100px !important;
 }
