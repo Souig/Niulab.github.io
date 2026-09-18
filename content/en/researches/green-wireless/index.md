@@ -13,9 +13,11 @@ sections:
 
         Key topics include:
 
-        - Energy-efficient wireless communications
-        - Queueing theory and traffic engineering
-        - Green edge intelligence
-        - Network resource optimization
-        - Sustainable 6G network design
+        <ul>
+        <li>Energy-efficient wireless communications</li>
+        <li>Queueing theory and traffic engineering</li>
+        <li>Green edge intelligence</li>
+        <li>Network resource optimization</li>
+        <li>Sustainable 6G network design</li>
+        </ul>
 ---

@@ -13,9 +13,11 @@ sections:
 
         Key topics include:
 
-        - AI for network management and optimization
-        - Intent-driven networking
-        - Autonomous networked systems
-        - Multi-agent collaboration
-        - Intelligent RAN (Radio Access Network)
+        <ul>
+        <li>AI for network management and optimization</li>
+        <li>Intent-driven networking</li>
+        <li>Autonomous networked systems</li>
+        <li>Multi-agent collaboration</li>
+        <li>Intelligent RAN (Radio Access Network)</li>
+        </ul>
 ---
