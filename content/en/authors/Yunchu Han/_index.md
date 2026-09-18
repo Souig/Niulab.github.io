@@ -3,7 +3,7 @@ title: Yunchu Han
 type: landing
 first_name: Yunchu
 last_name: Han
-weight: 7
+weight: 2
 user_groups:
   - Ph.D. Students
 social:

@@ -18,4 +18,5 @@ sections:
         - Speculative decoding for LLM inference
         - Green edge intelligence and energy-efficient AI
         - Stochastic network optimization
+      image: "lab_research_intro/1-1.png"
 ---

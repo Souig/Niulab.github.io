@@ -3,7 +3,7 @@ title: Xiankun Zeng
 type: landing
 first_name: Xiankun
 last_name: Zeng
-weight: 11
+weight: 4
 user_groups:
   - Ph.D. Students
 social:
@@ -12,7 +12,7 @@ social:
     link: 'mailto:zengxk25@mails.tsinghua.edu.cn'
 superuser: false
 highlight_name: true
-role: Incoming Ph.D. 
+role: Ph.D. 
 organizations:
   - name: Dept. of Electronic Engineering, Tsinghua University
 interests:

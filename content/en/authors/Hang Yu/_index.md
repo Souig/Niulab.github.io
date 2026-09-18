@@ -3,7 +3,7 @@ title: Hang Yu
 type: landing
 first_name: Hang
 last_name: Yu
-weight: 12
+weight: 5
 user_groups:
   - Ph.D. Students
 social:

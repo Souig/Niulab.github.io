@@ -3,7 +3,7 @@ title: Jiawen Zhang
 type: landing
 first_name: Jiawen
 last_name: Zhang
-weight: 9
+weight: 3
 user_groups:
   - Ph.D. Students
 social:

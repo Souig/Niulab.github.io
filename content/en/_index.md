@@ -49,27 +49,27 @@ sections:
       items:
         - title: "Edge Intelligence"
           text: "Bringing AI capabilities to the network edge through efficient inference, federated learning, and cloud-edge-end collaboration for intelligent wireless systems."
-          image: "team1.jpg"
+          image: "research1.png"
           link: "/researches/edge-intelligence/"
 
         - title: "Vehicular & Autonomous Systems"
           text: "Enabling cooperative autonomous driving through collaborative perception, V2X communications, and intelligent vehicular networks."
-          image: "team2.jpg"
+          image: "research2.png"
           link: "/researches/vehicular-systems/"
 
         - title: "Low-Altitude Intelligent Networks"
           text: "Designing cellular-connected drone networks with intelligent coverage, mobility management, and UAV-assisted communication."
-          image: "team3.jpg"
+          image: "research3.png"
           link: "/researches/low-altitude-networks/"
 
         - title: "AI-Native Networking"
           text: "Architecting next-generation networks with native AI capabilities for autonomous network management and intelligent resource optimization."
-          image: "team1.jpg"
+          image: ""
           link: "/researches/ai-native-networking/"
 
         - title: "Green Wireless Systems"
           text: "Developing energy-efficient wireless communication technologies and green edge intelligence for sustainable network evolution."
-          image: "team2.jpg"
+          image: ""
           link: "/researches/green-wireless/"
 
     design:

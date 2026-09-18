@@ -3,12 +3,12 @@ title: Zeyi Ren
 type: landing
 first_name: Zeyi
 last_name: Ren
-weight: 3
+weight: 5
 user_groups:
   - Ph.D. Students
 superuser: false
 highlight_name: true
-role: Incoming Ph.D. 
+role: Ph.D. 
 organizations:
   - name: Dept. of Electronic Engineering, Tsinghua University
 interests:
