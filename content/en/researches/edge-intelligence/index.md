@@ -21,7 +21,7 @@ sections:
         <li>Stochastic network optimization</li>
         </ul>
 
-        ![Edge Intelligence](media/1-1.png)
+        ![Edge Intelligence](1-1.png)
         ![Edge Intelligence](1-2.png)
         ![Edge Intelligence](1-3.png)
         ![Edge Intelligence](1-4.png)

@@ -8,14 +8,30 @@ sections:
   - block: markdown
     content:
       title: Vehicular & Autonomous Systems
-      text: >
+      text: |
         We research cooperative autonomous driving and intelligent vehicular networks. Our work spans collaborative perception for autonomous vehicles, V2X communication systems, and Sim2Real adaptation techniques. By combining communication and sensing capabilities, we aim to enable safe and efficient autonomous transportation systems.
 
         Key topics include:
 
-        - Cooperative autonomous driving
-        - Collaborative perception and V2X
-        - Sim2Real adaptation for autonomous systems
-        - Vehicular edge computing
-        - Intelligent transportation systems
+        <ul>
+        <li>Cooperative autonomous driving</li>
+        <li>Collaborative perception and V2X</li>
+        <li>Sim2Real adaptation for autonomous systems</li>
+        <li>Vehicular edge computing</li>
+        <li>Intelligent transportation systems</li>
+        </ul>
+
+        ![Edge Intelligence](2-1.png)
+        ![Edge Intelligence](2-2.png)
+        ![Edge Intelligence](2-3.png)
+        ![Edge Intelligence](2-4.png)
+        ![Edge Intelligence](2-5.png)
+        ![Edge Intelligence](2-6.png)
+        ![Edge Intelligence](2-7.png)
+        ![Edge Intelligence](2-8.png)
+        ![Edge Intelligence](2-9.png)
+        ![Edge Intelligence](2-10.png)
+        ![Edge Intelligence](2-11.png)
+        ![Edge Intelligence](2-12.png)
+        ![Edge Intelligence](2-13.png)
 ---
